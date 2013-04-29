@@ -1,6 +1,6 @@
 # OpenCityCamp
 
-This repository is a collection of various materials for the [http://ulmapi.de/#occ](OpenCityCamp).
+This repository is a collection of various materials for the [OpenCityCamp](http://ulmapi.de/#occ).
 
 Font: Colaborate
 
